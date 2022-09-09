@@ -1,6 +1,5 @@
 #include <stdio.h>
 /**
- *
  * main - Print exactly
  *
  * Return: Always 0 (Success)
